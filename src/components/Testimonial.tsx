@@ -1,7 +1,8 @@
+
+
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Pagination, Autoplay } from 'swiper/modules';
-import "swiper/css";
-import "swiper/css/pagination";
+import { Pagination, Autoplay } from "swiper/modules";
+
 
 import Avatar1 from '../assets/avatar1.webp'
 import Avatar2 from '../assets/avatar2.webp'
